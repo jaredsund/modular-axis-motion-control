@@ -56,3 +56,38 @@ C:\Users\jareds\documents\visual studio 2010\Projects\FEZ Panda Counter\FEZ Pand
 C:\Users\jareds\documents\visual studio 2010\Projects\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.System.dll
 C:\Users\jareds\documents\visual studio 2010\Projects\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.Hardware.xml
 C:\Users\jareds\documents\visual studio 2010\Projects\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\le\FEZ Panda Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\be\FEZ Panda Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\le\FEZ Panda Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\be\FEZ Panda Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\FEZ Panda Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\FEZ Panda Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\le\FEZ Panda Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\le\FEZ Panda Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\be\FEZ Panda Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\be\FEZ Panda Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\FEZ_Panda_Counter.Resources.resources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\FEZ_Panda_Counter.Resources.tinyresources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\TinyResGen.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\be\FEZ Panda Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\be\FEZ Panda Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\le\FEZ Panda Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\le\FEZ Panda Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\FEZ Panda Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Panda Counter\FEZ Panda Counter\obj\Debug\FEZ Panda Counter.pdb

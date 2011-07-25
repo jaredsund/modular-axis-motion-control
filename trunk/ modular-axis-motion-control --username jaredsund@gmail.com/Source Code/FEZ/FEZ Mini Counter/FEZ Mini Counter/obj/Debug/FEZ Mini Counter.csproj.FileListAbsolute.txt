@@ -1,0 +1,70 @@
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\le\FEZ Mini Application.exe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\be\FEZ Mini Application.exe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\le\FEZ Mini Application.pdb
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\be\FEZ Mini Application.pdb
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\FEZ Mini Application.exe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\FEZ Mini Application.pdb
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\le\FEZ Mini Application.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\le\FEZ Mini Application.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\be\FEZ Mini Application.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\be\FEZ Mini Application.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\FEZ_Mini_Counter.Resources.resources
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\FEZ_Mini_Counter.Resources.tinyresources
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\TinyResGen.cache
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\be\FEZ Mini Application.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\be\FEZ Mini Application.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\le\FEZ Mini Application.pe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\le\FEZ Mini Application.pdbx
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\FEZ Mini Application.exe
+C:\Users\jareds\AppData\Local\Temporary Projects\FEZ Mini Counter\obj\Debug\FEZ Mini Application.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\le\FEZ Mini Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\be\FEZ Mini Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\le\FEZ Mini Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\be\FEZ Mini Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\FEZ Mini Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\FEZ Mini Counter.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\le\FEZ Mini Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\le\FEZ Mini Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\be\FEZ Mini Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\be\FEZ Mini Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ_Mini_Counter.Resources.resources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ_Mini_Counter.Resources.tinyresources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\TinyResGen.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\be\FEZ Mini Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\be\FEZ Mini Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\le\FEZ Mini Counter.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\le\FEZ Mini Counter.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.pdb
