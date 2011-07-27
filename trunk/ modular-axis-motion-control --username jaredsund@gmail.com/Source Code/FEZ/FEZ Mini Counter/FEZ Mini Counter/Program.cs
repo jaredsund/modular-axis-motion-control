@@ -5,7 +5,6 @@
  * See: http://www.keil.com/dd/docs/datashts/philips/lpc23xx_um.pdf
  * See: http://www.ghielectronics.com/downloads/FEZ/Mini/FEZMini_sch.pdf
  * 
- * Written by Jared Sund
  */
 
 using System;
