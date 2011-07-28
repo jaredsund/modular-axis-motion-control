@@ -25,11 +25,14 @@ namespace FEZ_Mini_Counter
         private static Register T3CR;   //Timer Control Register
         private static Register T3IR;   //Interrupt Register 
 
+      
+
         static void IntButton_OnInterrupt(uint port, uint state, DateTime time)
         {
             //reset
             T3CR.SetBits((1 << 1));
             T3CR.ClearBits((1 << 1));
+
             T3IR.Write(1 << 0);
         }
 
@@ -44,10 +47,10 @@ namespace FEZ_Mini_Counter
             //Disable the garbage collector messages
             Debug.EnableGCMessages(false);
 
-            //used to generate our external timer input, could be an encoder.
-            PWM pwm = new PWM((PWM.Pin)FEZ_Pin.PWM.Di3);
-            pwm.Set(false);
-            pwm.Set(2, 50);
+            ////used to generate our external timer input, could be an encoder.
+            //PWM pwm = new PWM((PWM.Pin)FEZ_Pin.PWM.Di3);
+            //pwm.Set(false);
+            //pwm.Set(2, 50);
 
 
             //The LDR button is used as a physical counter and interupt reset
@@ -62,7 +65,6 @@ namespace FEZ_Mini_Counter
                                    Port.ResistorMode.PullUp,
                                    Port.InterruptMode.InterruptEdgeBoth);
             IntDI8.OnInterrupt += new NativeEventHandler(IntDI8_OnInterrupt);
-
 
             /*PINSEL0 - 0xE002 C000
              * 21:20 P0.10 GPIO Port 0.10 TXD2 SDA2 MAT3.0 00
@@ -94,6 +96,12 @@ namespace FEZ_Mini_Counter
              */
             Register PINSEL1 = new Register(0xE002C004);
             PINSEL1.SetBits((3 << 14));//set bits 14 and 15
+            PINSEL1.SetBits((3 << 16));//set bits 16 and 17
+            
+            //PINSEL1.Write(245760);//set bits 14 and 15
+
+            //245760
+            //17 and 16
 
             /*Timer Control Register (T[0/1/2/3]CR - 0xE000 4004, 0xE000 8004,0xE007 0004, 0xE007 4004)
              * 0 Counter Enable When one, the Timer Counter and Prescale Counter are enabled for counting. 
@@ -121,7 +129,8 @@ namespace FEZ_Mini_Counter
              * This will count on falling edge of CAP3.0, An0(mini)
              */
             Register T3CTCR = new Register(0xE0074070);
-            T3CTCR.Write(2 << 0 | 0 << 2);
+            T3CTCR.Write(2 << 0 | 0 << 2);//10
+            //T3CTCR.Write(1);
 
             /*Capture Control Register (T[0/1/2/3]CCR - 0xE000 4028, 0xE000 8028, 0xE007 0028, 0xE007 4028)
              * see page 558, LPC23XX User manual Rev. 02 — 11 February 2009
@@ -130,11 +139,13 @@ namespace FEZ_Mini_Counter
              */
             Register T3CCR = new Register(0xE0074028);
             T3CCR.ClearBits(0x07);
+            T3CCR.SetBits(1 << 4);//falling edge CAP3.1
+
             // To reset the counter
             T3CR.SetBits((1 << 1));
             T3CR.ClearBits((1 << 1));
 
-            /*------------------------------------------------------------------*/
+             /*------------------------------------------------------------------*/
 
             /*Match Control Register (T[0/1/2/3]MCR - 0xE000 4014, 0xE000 8014, 0xE007 0014, 0xE007 4014)
              * 0 MR0I 1 Interrupt on MR0: an interrupt is generated when MR0 matches the value in the TC
@@ -143,7 +154,7 @@ namespace FEZ_Mini_Counter
              * This will generate a interrupt when MR0 and TC match
              */
             Register T3MCR = new Register(0xE0074014);
-            T3MCR.Write(1 << 0);
+            T3MCR.Write(3 << 0);
 
             /*MR0 Match Register
              * see page 553, LPC23XX User manual Rev. 02 — 11 February 2009
@@ -178,13 +189,21 @@ namespace FEZ_Mini_Counter
              */
             Register T3TC = new Register(0xE0074008);
 
+            Register T3CR1 = new Register(0xE0074030);
+            UInt32 T3CR1Value = 0;
             while (true)
             {
+
                 Debug.Print("Total count: " + T3TC.Read());
+                Debug.Print("T3CR1: " + T3CR1Value.ToString());
                 Debug.Print("IR: " + T3IR.Read());
                 Debug.Print("External Match Register: " + EM0.Read().ToString());
+                Debug.Print("");
 
-                Thread.Sleep(10);
+                T3CR1Value = T3TC.Read();
+                
+
+                Thread.Sleep(100);
             }//end of while loop
 
         }//end of Main()
