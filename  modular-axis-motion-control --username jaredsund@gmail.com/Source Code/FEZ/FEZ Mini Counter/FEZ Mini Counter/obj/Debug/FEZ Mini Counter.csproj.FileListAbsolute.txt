@@ -62,9 +62,9 @@ C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-contro
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ_Mini_Counter.Resources.tinyresources
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\TinyResGen.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.pdb
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\be\FEZ Mini Counter.pe
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\be\FEZ Mini Counter.pdbx
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\le\FEZ Mini Counter.pe
 C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\le\FEZ Mini Counter.pdbx
-C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.exe
-C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini Counter\FEZ Mini Counter\obj\Debug\FEZ Mini Counter.pdb
