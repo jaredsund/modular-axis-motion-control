@@ -47,10 +47,10 @@ namespace FEZ_Mini_Counter
             //Disable the garbage collector messages
             Debug.EnableGCMessages(false);
 
-            ////used to generate our external timer input, could be an encoder.
-            //PWM pwm = new PWM((PWM.Pin)FEZ_Pin.PWM.Di3);
-            //pwm.Set(false);
-            //pwm.Set(2, 50);
+            //used to generate our external timer input, could be an encoder.
+            PWM pwm = new PWM((PWM.Pin)FEZ_Pin.PWM.Di10);
+            pwm.Set(false);
+            pwm.Set(2, 50);
 
 
             //The LDR button is used as a physical counter and interupt reset
