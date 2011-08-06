@@ -2,8 +2,11 @@
 
 = Introduction =
 
-Add your content here.
+This code demonstrates how to use the register class to create a hardware level high speed interruptible counter from an external input using timer3 on the FEZ Mini (LPC2387 chip). The purpose of the exercise was to capture encoder pulses in a hardware timer, and to raise user level events at a certain number of pulses captured. An interruptible pin can be used to count pulses for slower speeds (<2Khz), however this process is very CPU intensive and provokes a constant change in the control flow of the applications running. Instead, we can use the hardware timer to capture/count pulses, and once we reach a particular value, raise an event through an interrupt to notify the user level code that the number of pulses has been achieved. Since most of the work is performed in the timer registers, this eliminates unneeded burden on our CPU. The code below documents how to use the register class on a FEZ mini to achieve this very task. For detailed information on the LPC23XX timers, see chapter 23 (Timer 0/1/2/3) of the LPC23XX User manual (Rev. 02 — 11 February 2009) at [http://www.keil.com/dd/docs/datashts/philips/lpc23xx_um.pdf]. Also, for pin out details for the FEZ mini, see the FEZ mini schematic at [http://www.ghielectronics.com/downloads/FEZ/Mini/FEZMini_sch.pdf] .
 
+Note, this code will work on all FEZ devices that use the LPC2387 (100) chip (Panda, Panda II). That is, with slight modification to the CAP and MAT pins. With a few more changes to register settings, this can also be modified to work with the 144 pin applications as well (Rhino, Domino)
+
+This code can be viewed on the code.TinyCLR.com site at [http://code.tinyclr.com/project/360/externally-triggered-high-speed-counter/]
 
 = Details =
 
