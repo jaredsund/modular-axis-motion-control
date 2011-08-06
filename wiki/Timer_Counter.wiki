@@ -1,0 +1,24 @@
+#summary Displays information about the LM2387 Counter/Timer
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Registers:
+|| *Symbol* || *Name* || *Usage* || *Location*|| *Description* ||
+|| IR || Interrupt register || T3IR || 0xE007 4000|| write(clear), read ||
+|| TCR|| Timer Control Register || T3TCR|| 0xE007 4004||  used to control timer counter functions (disable/reset)||
+|| TC || Timer Counter || T3TC || 0xE007 4008 || incremented every PR+1 cycles, controlled through the TCR ||
+|| PR || Prescale Register || T3PR || 0xE007 4000 || when the PC is equal to this value, the next clock increments TC, and PC is cleared ||
+|| PC  || Prescale Counter || T3PC || 0xE007 4010 || is incremented to the value stored in PR, then the TC is incremented and PC is cleared ||
+|| MCR || Match Control Register || T3MCR || 0xE007 4014 || used to control if an interrupt is generated  and if TC is reset when a match occurs ||
+|| MR[3:0] || Match Register || T3MR[3:0] || 0xE007 [4024, 4020, 4010, 4018] || used to control if an interrupt is generated and if TC is reset or stopped when match occurs ||
+|| CCR || Capture Control Register || T3CCR || 0xE007 4028 || controls which edges of the capture inputs are used to load the capture register and whether an interrupt is generated when a capture takes place ||
+|| CR0/CR1 || Capture Register 0/1 || T3CR0/1 || 0xE007 402C/4030 || CR0/1 is loaded with the value of TC, when there is an event on CAP3.[0/1] input ||
+|| EMR || External Match Register || T2EMR || 0xE007 403C || Controls match pins MAT3.[0/1] ||
+|| CTCR || Count Control Register || T3CTCR || 0xE007 4070 || selects between counter and timer mode.  In counter mode it is used to select the signal and edge(s) for counting ||
+
+  
