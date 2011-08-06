@@ -2,10 +2,12 @@
 
 = Full Schematic =
 
-[http://code.google.com/p/modular-axis-motion-control/source/browse/trunk/%20modular-axis-motion-control%20--username%20jaredsund%40gmail.com/Electrical/MotionControl_sch.png]
+[http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Electrical/MotionControl_sch.png]
 
 
 = Details =
+
+See [http://code.google.com/p/modular-axis-motion-control/source/browse/trunk/+modular-axis-motion-control+--username+jaredsund%40gmail.com/Electrical/ Electrical] for TinyCAD design files. 
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
