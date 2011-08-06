@@ -1,0 +1,35 @@
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\le\FEZ Mini MotionControl.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\be\FEZ Mini MotionControl.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\le\FEZ Mini MotionControl.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\be\FEZ Mini MotionControl.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\FEZ Mini MotionControl.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\FEZ Mini MotionControl.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\le\FEZ Mini MotionControl.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\le\FEZ Mini MotionControl.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\be\FEZ Mini MotionControl.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\be\FEZ Mini MotionControl.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\FEZ_Mini_MotionControl.Resources.resources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\FEZ_Mini_MotionControl.Resources.tinyresources
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\TinyResGen.cache
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\be\FEZ Mini MotionControl.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\be\FEZ Mini MotionControl.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\le\FEZ Mini MotionControl.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\le\FEZ Mini MotionControl.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\FEZ Mini MotionControl.exe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\obj\Debug\FEZ Mini MotionControl.pdb
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\jareds\Documents\Visual Studio 2010\Projects\modular-axis-motion-control\Source Code\FEZ\FEZ Mini MotionControl\FEZ Mini MotionControl\bin\Debug\GHIElectronics.NETMF.System.xml

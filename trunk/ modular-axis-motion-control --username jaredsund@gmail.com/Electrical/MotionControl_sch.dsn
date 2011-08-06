@@ -19,9 +19,9 @@ download a copy.-->
 			<DATE></DATE>
 			<GRID spacing='100.00000' snap='0'/>
 		</DETAILS>
-		<FONT id='0'>
-			<HEIGHT>-13</HEIGHT>
-			<WIDTH>6</WIDTH>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
 			<WEIGHT>400</WEIGHT>
 			<ITALIC>0</ITALIC>
 			<UNDERLINE>0</UNDERLINE>
@@ -29,9 +29,9 @@ download a copy.-->
 			<CHARSET>0</CHARSET>
 			<FACENAME>Arial</FACENAME>
 		</FONT>
-		<FONT id='1'>
-			<HEIGHT>-10</HEIGHT>
-			<WIDTH>0</WIDTH>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
 			<WEIGHT>400</WEIGHT>
 			<ITALIC>0</ITALIC>
 			<UNDERLINE>0</UNDERLINE>
@@ -54,50 +54,25 @@ download a copy.-->
 			<COLOR>0000FF</COLOR>
 			<THICKNESS>3</THICKNESS>
 		</STYLE>
-		<STYLE id='4'>
-			<STYLE>0</STYLE>
-			<COLOR>000000</COLOR>
-			<THICKNESS>1</THICKNESS>
-		</STYLE>
-		<STYLE id='6'>
+		<STYLE id='5'>
 			<STYLE>0</STYLE>
 			<COLOR>000000</COLOR>
 			<THICKNESS>3</THICKNESS>
 		</STYLE>
-		<STYLE id='9'>
+		<STYLE id='6'>
 			<STYLE>0</STYLE>
 			<COLOR>0080FF</COLOR>
 			<THICKNESS>1</THICKNESS>
 		</STYLE>
-		<STYLE id='11'>
+		<STYLE id='7'>
 			<STYLE>0</STYLE>
 			<COLOR>4080FF</COLOR>
-			<THICKNESS>1</THICKNESS>
-		</STYLE>
-		<STYLE id='12'>
-			<STYLE>0</STYLE>
-			<COLOR>000000</COLOR>
 			<THICKNESS>1</THICKNESS>
 		</STYLE>
 		<STYLE id='13'>
 			<STYLE>0</STYLE>
 			<COLOR>000000</COLOR>
 			<THICKNESS>1</THICKNESS>
-		</STYLE>
-		<STYLE id='14'>
-			<STYLE>0</STYLE>
-			<COLOR>000000</COLOR>
-			<THICKNESS>1</THICKNESS>
-		</STYLE>
-		<STYLE id='15'>
-			<STYLE>0</STYLE>
-			<COLOR>000000</COLOR>
-			<THICKNESS>1</THICKNESS>
-		</STYLE>
-		<STYLE id='18'>
-			<STYLE>0</STYLE>
-			<COLOR>0000FF</COLOR>
-			<THICKNESS>3</THICKNESS>
 		</STYLE>
 		<FILL id='0'>
 			<INDEX>-1</INDEX>
@@ -1259,35 +1234,35 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			</FIELD>
 			<REF_POINT power='0' part='0' pos='21.00000,14.00000'/>
 			<TinyCAD>
-				<RECTANGLE a='8.00000,5.00000' b='18.00000,11.00000' style='4' fill='0'/>
-				<POLYGON pos='14.60000,6.40000' style='4' fill='0'>
+				<RECTANGLE a='8.00000,5.00000' b='18.00000,11.00000' style='13' fill='0'/>
+				<POLYGON pos='14.60000,6.40000' style='13' fill='0'>
 					<POINT pos='0.00000,3.20000' arc='0'/>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='11.60000,6.40000' style='4' fill='0'>
+				<POLYGON pos='11.60000,6.40000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='3.00000,1.60000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='11.60000,6.40000' style='4' fill='0'>
+				<POLYGON pos='11.60000,6.40000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='0.00000,3.20000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='11.60000,8.00000' style='4' fill='0'>
+				<POLYGON pos='11.60000,8.00000' style='13' fill='0'>
 					<POINT pos='0.00000,1.60000' arc='0'/>
 					<POINT pos='3.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='7.60000,8.00000' style='4' fill='0'>
+				<POLYGON pos='7.60000,8.00000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='4.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='13.60000,6.40000' style='4' fill='0'>
+				<POLYGON pos='13.60000,6.40000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='1.00000,0.00000' arc='0'/>
 				</POLYGON>
 				<PIN pos='13.00000,14.00000' which='0' elec='4' direction='0' part='0' number='3' show='1' length='15' number_pos='0' centre_name='1'>Adj</PIN>
 				<PIN pos='5.00000,8.00000' which='0' elec='4' direction='3' part='0' number='2' show='1' length='15' number_pos='0' centre_name='1'>In</PIN>
 				<PIN pos='21.00000,8.00000' which='0' elec='4' direction='2' part='0' number='1' show='1' length='15' number_pos='0' centre_name='1'>Out</PIN>
-				<POLYGON pos='14.60000,8.00000' style='4' fill='0'>
+				<POLYGON pos='14.60000,8.00000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='4.00000,0.00000' arc='0'/>
 				</POLYGON>
@@ -1300,19 +1275,19 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<PPP>1</PPP>
 			<REF_POINT power='0' part='0' pos='95.60000,33.00000'/>
 			<TinyCAD>
-				<POLYGON pos='94.00000,30.00000' style='4' fill='0'>
+				<POLYGON pos='94.00000,30.00000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='0.00000,3.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='94.00000,26.00000' style='4' fill='0'>
+				<POLYGON pos='94.00000,26.00000' style='13' fill='0'>
 					<POINT pos='0.00000,3.00000' arc='0'/>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='92.40000,30.00000' style='4' fill='0'>
+				<POLYGON pos='92.40000,30.00000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='3.20000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='92.40000,29.00000' style='4' fill='0'>
+				<POLYGON pos='92.40000,29.00000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='3.20000,0.00000' arc='0'/>
 				</POLYGON>
@@ -1474,33 +1449,13 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<REF_POINT power='0' part='0' pos='35.00000,33.00000'/>
 			<TinyCAD>
 				<PIN pos='28.00000,31.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='15' number_pos='0' centre_name='0'></PIN>
-				<RECTANGLE a='35.00000,27.00000' b='31.00000,33.00000' style='4' fill='0'/>
-				<ELLIPSE a='34.00000,30.00000' b='32.00000,32.00000' style='4' fill='0'/>
-				<ELLIPSE a='34.00000,28.00000' b='32.00000,30.00000' style='4' fill='1'/>
+				<RECTANGLE a='35.00000,27.00000' b='31.00000,33.00000' style='13' fill='0'/>
+				<ELLIPSE a='34.00000,30.00000' b='32.00000,32.00000' style='13' fill='0'/>
+				<ELLIPSE a='34.00000,28.00000' b='32.00000,30.00000' style='13' fill='1'/>
 				<PIN pos='28.00000,29.00000' which='0' elec='4' direction='3' part='0' number='1' show='2' length='15' number_pos='0' centre_name='0'></PIN>
 			</TinyCAD>
 		</SYMBOLDEF>
 		<SYMBOLDEF id='6'>
-			<NAME type='0'>R</NAME>
-			<REF type='0'>R?</REF>
-			<DESCRIPTION>Resistor</DESCRIPTION>
-			<PPP>1</PPP>
-			<REF_POINT power='0' part='0' pos='83.40000,52.00000'/>
-			<TinyCAD>
-				<PIN pos='82.00000,43.00000' which='5' elec='4' direction='1' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
-				<PIN pos='82.00000,51.00000' which='5' elec='4' direction='0' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
-				<POLYGON pos='82.00000,43.00000' style='12' fill='0'>
-					<POINT pos='0.00000,1.60000' arc='0'/>
-					<POINT pos='0.00000,0.00000' arc='0'/>
-				</POLYGON>
-				<POLYGON pos='82.00000,50.40000' style='12' fill='0'>
-					<POINT pos='0.00000,0.00000' arc='0'/>
-					<POINT pos='0.00000,1.60000' arc='0'/>
-				</POLYGON>
-				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='12' fill='0'/>
-			</TinyCAD>
-		</SYMBOLDEF>
-		<SYMBOLDEF id='12'>
 			<NAME type='0'>R</NAME>
 			<REF type='0'>R?</REF>
 			<DESCRIPTION>Resistor</DESCRIPTION>
@@ -1520,7 +1475,7 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='13' fill='0'/>
 			</TinyCAD>
 		</SYMBOLDEF>
-		<SYMBOLDEF id='18'>
+		<SYMBOLDEF id='7'>
 			<NAME type='0'>R</NAME>
 			<REF type='0'>R?</REF>
 			<DESCRIPTION>Resistor</DESCRIPTION>
@@ -1529,18 +1484,18 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<TinyCAD>
 				<PIN pos='82.00000,43.00000' which='5' elec='4' direction='1' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
 				<PIN pos='82.00000,51.00000' which='5' elec='4' direction='0' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
-				<POLYGON pos='82.00000,43.00000' style='14' fill='0'>
+				<POLYGON pos='82.00000,43.00000' style='13' fill='0'>
 					<POINT pos='0.00000,1.60000' arc='0'/>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='82.00000,50.40000' style='14' fill='0'>
+				<POLYGON pos='82.00000,50.40000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='0.00000,1.60000' arc='0'/>
 				</POLYGON>
-				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='14' fill='0'/>
+				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='13' fill='0'/>
 			</TinyCAD>
 		</SYMBOLDEF>
-		<SYMBOLDEF id='27'>
+		<SYMBOLDEF id='8'>
 			<NAME type='0'>R</NAME>
 			<REF type='0'>R?</REF>
 			<DESCRIPTION>Resistor</DESCRIPTION>
@@ -1549,15 +1504,35 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<TinyCAD>
 				<PIN pos='82.00000,43.00000' which='5' elec='4' direction='1' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
 				<PIN pos='82.00000,51.00000' which='5' elec='4' direction='0' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
-				<POLYGON pos='82.00000,43.00000' style='15' fill='0'>
+				<POLYGON pos='82.00000,43.00000' style='13' fill='0'>
 					<POINT pos='0.00000,1.60000' arc='0'/>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 				</POLYGON>
-				<POLYGON pos='82.00000,50.40000' style='15' fill='0'>
+				<POLYGON pos='82.00000,50.40000' style='13' fill='0'>
 					<POINT pos='0.00000,0.00000' arc='0'/>
 					<POINT pos='0.00000,1.60000' arc='0'/>
 				</POLYGON>
-				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='15' fill='0'/>
+				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='13' fill='0'/>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='9'>
+			<NAME type='0'>R</NAME>
+			<REF type='0'>R?</REF>
+			<DESCRIPTION>Resistor</DESCRIPTION>
+			<PPP>1</PPP>
+			<REF_POINT power='0' part='0' pos='83.40000,52.00000'/>
+			<TinyCAD>
+				<PIN pos='82.00000,43.00000' which='5' elec='4' direction='1' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='82.00000,51.00000' which='5' elec='4' direction='0' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<POLYGON pos='82.00000,43.00000' style='13' fill='0'>
+					<POINT pos='0.00000,1.60000' arc='0'/>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='82.00000,50.40000' style='13' fill='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='0.00000,1.60000' arc='0'/>
+				</POLYGON>
+				<RECTANGLE a='80.40000,44.60000' b='83.40000,50.40000' style='13' fill='0'/>
 			</TinyCAD>
 		</SYMBOLDEF>
 		<OPTIONS>
@@ -1608,11 +1583,11 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<FIELD type='0' description='Ref' value='C2' show='1' pos='1.00000,-2.60000'/>
 			<FIELD type='0' description='Name' value='0.33u' show='1' pos='1.00000,-5.00000'/>
 		</SYMBOL>
-		<SYMBOL id='3' pos='239.39140,28.41271' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+		<SYMBOL id='3' pos='99.81340,37.49071' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
 			<FIELD type='0' description='Ref' value='C6' show='1' pos='1.00000,-2.60000'/>
 			<FIELD type='0' description='Name' value='0.1u' show='1' pos='1.00000,-5.00000'/>
 		</SYMBOL>
-		<SYMBOL id='3' pos='250.83922,28.05759' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+		<SYMBOL id='3' pos='110.60122,37.71159' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
 			<FIELD type='0' description='Ref' value='C7' show='1' pos='1.00000,-2.60000'/>
 			<FIELD type='0' description='Name' value='0.1u' show='1' pos='1.00000,-5.00000'/>
 		</SYMBOL>
@@ -1690,22 +1665,21 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 		<WIRE style='2' a='51.18930,24.36788' b='57.34994,24.36788'/>
 		<WIRE style='2' a='57.34994,24.36788' b='57.54875,24.36788'/>
 		<WIRE style='2' a='57.34994,24.36788' b='57.34994,30.10925'/>
-		<WIRE style='0' a='84.59460,42.12510' b='138.61800,42.12510'/>
+		<WIRE style='0' a='133.10129,42.12510' b='138.61800,42.12510'/>
 		<WIRE style='0' a='138.61800,42.12510' b='138.61800,114.87600'/>
 		<WIRE style='0' a='138.61800,114.87600' b='183.70694,114.87600'/>
 		<WIRE style='0' a='183.70611,114.87600' b='183.70694,98.72310'/>
 		<JUNCTION pos='14.07183,17.87000'/>
 		<WIRE style='3' a='186.78386,17.87000' b='219.86078,17.87000'/>
 		<WIRE style='3' a='14.07183,13.27088' b='14.07183,17.87000'/>
-		<WIRE style='3' a='219.86078,18.00000' b='219.86078,61.33849'/>
+		<WIRE style='3' a='219.86078,17.87000' b='219.86078,61.33849'/>
 		<JUNCTION pos='185.60800,17.87000'/>
 		<WIRE style='3' a='185.60800,17.87000' b='186.78386,17.87000'/>
-		<WIRE style='3' a='14.07183,17.87000' b='185.60800,17.87000'/>
+		<WIRE style='3' a='108.82200,17.87000' b='185.60800,17.87000'/>
 		<JUNCTION pos='186.78386,17.87000'/>
 		<WIRE style='3' a='185.60800,17.87000' b='186.78386,17.87000'/>
 		<WIRE style='3' a='186.78386,17.87000' b='186.78386,61.80003'/>
 		<JUNCTION pos='67.68609,24.36788'/>
-		<WIRE style='2' a='143.40020,24.36788' b='226.47617,24.36788'/>
 		<WIRE style='2' a='226.47617,24.36788' b='226.47617,61.64618'/>
 		<JUNCTION pos='84.59460,42.12510'/>
 		<WIRE style='0' a='84.59460,42.12510' b='84.59460,50.03460'/>
@@ -1718,14 +1692,11 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 		<WIRE style='0' a='12.13260,99.43460' b='12.13260,202.54200'/>
 		<WIRE style='0' a='12.13260,202.54200' b='69.72478,202.54200'/>
 		<WIRE style='0' a='69.72478,202.54200' b='69.72478,176.16896'/>
-		<JUNCTION pos='92.75600,24.36788'/>
-		<WIRE style='2' a='92.75600,24.36788' b='92.75600,55.60000'/>
+		<WIRE style='2' a='92.75600,24.41385' b='92.75600,55.60000'/>
 		<WIRE style='2' a='67.68609,24.36788' b='92.75600,24.36788'/>
 		<WIRE style='2' a='92.75600,55.60000' b='69.72478,55.60000'/>
 		<WIRE style='2' a='69.72478,64.25800' b='69.72478,121.36896'/>
-		<JUNCTION pos='143.40020,24.36788'/>
 		<WIRE style='2' a='143.40020,24.36788' b='143.40020,110.77080'/>
-		<WIRE style='2' a='123.93858,24.36788' b='143.40020,24.36788'/>
 		<WIRE style='2' a='143.40020,110.77080' b='176.78386,110.77080'/>
 		<WIRE style='2' a='176.78386,110.77080' b='176.78386,98.87695'/>
 		<JUNCTION pos='138.61800,42.12510'/>
@@ -1757,7 +1728,7 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 			<FIELD type='1' description='Mouser Part' value='..' show='0' pos='1.00000,15.20000'/>
 			<FIELD type='1' description='Cost' value='0.65' show='0' pos='1.00000,17.60000'/>
 		</SYMBOL>
-		<TEXT pos='6.73171,62.01966' direction='3' font='0' color='000000'>Encoders</TEXT>
+		<TEXT pos='6.73171,62.01966' direction='3' font='3' color='000000'>Encoders</TEXT>
 		<JUNCTION pos='69.72478,63.67101'/>
 		<WIRE style='2' a='69.72478,63.67101' b='69.72478,64.25800'/>
 		<WIRE style='2' a='69.72478,55.60000' b='69.72478,63.67101'/>
@@ -1801,70 +1772,53 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 		<WIRE style='3' a='213.18039,33.40485' b='272.58093,33.40485'/>
 		<WIRE style='3' a='199.70694,61.49233' b='199.70694,39.33493'/>
 		<WIRE style='3' a='199.70694,39.33493' b='272.60103,39.33493'/>
-		<WIRE style='6' a='190.32232,99.03080' b='190.17329,99.03080'/>
-		<WIRE style='6' a='190.17329,99.03080' b='190.17329,120.50725'/>
-		<WIRE style='6' a='190.17329,120.50725' b='265.57329,120.50725'/>
-		<WIRE style='6' a='265.57329,120.50725' b='265.57329,41.33493'/>
-		<WIRE style='6' a='265.57329,41.33493' b='272.60103,41.33493'/>
-		<WIRE style='6' a='203.39924,98.41541' b='203.39924,117.10725'/>
-		<WIRE style='6' a='203.39924,117.10725' b='262.82201,117.10725'/>
-		<WIRE style='6' a='262.82201,117.10725' b='262.82201,35.40485'/>
-		<WIRE style='6' a='262.82201,35.40485' b='272.58093,35.40485'/>
-		<WIRE style='11' a='74.92478,175.76896' b='75.15600,175.76896'/>
-		<WIRE style='11' a='75.15600,175.76896' b='75.15600,193.46000'/>
-		<WIRE style='11' a='75.15600,193.46000' b='21.07600,193.46000'/>
-		<WIRE style='11' a='21.07600,193.46000' b='21.07600,70.14697'/>
-		<WIRE style='11' a='21.07600,70.14697' b='16.24090,70.14697'/>
-		<WIRE style='11' a='79.92478,175.96896' b='79.92478,198.11231'/>
-		<WIRE style='11' a='79.92478,198.11231' b='16.24090,198.11231'/>
-		<WIRE style='11' a='16.24090,198.11231' b='16.24090,72.14697'/>
-		<WIRE style='11' a='105.52478,120.56896' b='105.34000,120.56896'/>
+		<WIRE style='5' a='190.32232,99.03080' b='190.17329,99.03080'/>
+		<WIRE style='5' a='190.17329,99.03080' b='190.17329,120.50725'/>
+		<WIRE style='5' a='190.17329,120.50725' b='265.57329,120.50725'/>
+		<WIRE style='5' a='265.57329,120.50725' b='265.57329,41.33493'/>
+		<WIRE style='5' a='265.57329,41.33493' b='272.60103,41.33493'/>
+		<WIRE style='5' a='203.39924,98.41541' b='203.39924,117.10725'/>
+		<WIRE style='5' a='203.39924,117.10725' b='262.82201,117.10725'/>
+		<WIRE style='5' a='262.82201,117.10725' b='262.82201,35.40485'/>
+		<WIRE style='5' a='262.82201,35.40485' b='272.58093,35.40485'/>
+		<WIRE style='7' a='74.92478,175.76896' b='75.15600,175.76896'/>
+		<WIRE style='7' a='75.15600,175.76896' b='75.15600,193.46000'/>
+		<WIRE style='7' a='75.15600,193.46000' b='21.07600,193.46000'/>
+		<WIRE style='7' a='21.07600,193.46000' b='21.07600,70.14697'/>
+		<WIRE style='7' a='21.07600,70.14697' b='16.24090,70.14697'/>
+		<WIRE style='7' a='79.92478,175.96896' b='79.92478,198.11231'/>
+		<WIRE style='7' a='79.92478,198.11231' b='16.24090,198.11231'/>
+		<WIRE style='7' a='16.24090,198.11231' b='16.24090,72.14697'/>
+		<WIRE style='7' a='105.52478,120.56896' b='105.34000,120.56896'/>
 		<NOCONNECT pos='84.92478,121.16896'/>
 		<NOCONNECT pos='79.92478,121.16896'/>
-		<TEXT pos='76.82959,108.56982' direction='3' font='0' color='000000'>Interrupts</TEXT>
+		<TEXT pos='76.82959,108.56982' direction='3' font='3' color='000000'>Interrupts</TEXT>
 		<WIRE a='110.52478,120.76896' b='110.51858,120.76896'/>
 		<WIRE a='110.51858,120.76896' b='110.51858,46.38462'/>
-		<WIRE a='124.03858,46.38462' b='173.70694,46.38462'/>
+		<WIRE a='116.33206,46.38462' b='173.70694,46.38462'/>
 		<WIRE a='173.70694,46.38462' b='173.70694,61.64618'/>
 		<WIRE a='105.52478,97.86462' b='128.97858,97.86462'/>
 		<WIRE a='128.97858,97.86462' b='128.97858,137.64462'/>
 		<WIRE a='128.97858,137.64462' b='229.09155,137.64462'/>
 		<WIRE a='229.09155,137.64462' b='229.09155,98.87695'/>
-		<LABEL pos='110.51858,90.58462' direction='3' font='0' color='208000' style='0'>EN</LABEL>
-		<SYMBOL id='6' pos='125.33858,38.32462' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
-			<FIELD type='0' description='Ref' value='R3' show='1' pos='1.00000,-4.60000'/>
-			<FIELD type='0' description='Name' value='2k' show='1' pos='1.00000,-7.00000'/>
+		<LABEL pos='110.51858,90.58462' direction='3' font='3' color='208000' style='0'>EN</LABEL>
+		<SYMBOL id='6' pos='129.73858,38.52462' part='0' rotate='2' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='R3' show='1' pos='-9.00000,2.00000'/>
+			<FIELD type='0' description='Name' value='2k' show='1' pos='-9.00000,-3.00000'/>
 		</SYMBOL>
-		<JUNCTION pos='123.77858,24.36788'/>
-		<WIRE style='2' a='123.77858,24.36788' b='123.93858,24.36788'/>
-		<WIRE style='2' a='102.87858,24.36788' b='123.77858,24.36788'/>
-		<JUNCTION pos='123.93858,24.36788'/>
-		<WIRE style='2' a='123.77858,24.36788' b='123.93858,24.36788'/>
-		<WIRE style='2' a='123.93858,24.36788' b='123.93858,29.32462'/>
 		<WIRE style='2' a='123.93858,37.32462' b='124.03858,37.32462'/>
-		<WIRE style='2' a='124.03858,37.32462' b='124.03858,46.38462'/>
-		<JUNCTION pos='124.03858,46.38462'/>
-		<WIRE a='110.51858,46.38462' b='124.03858,46.38462'/>
-		<SYMBOL id='12' pos='104.27858,38.06462' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+		<SYMBOL id='7' pos='106.47858,82.06462' part='0' rotate='1' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
 			<FIELD type='0' description='Ref' value='R4' show='1' pos='1.00000,-4.60000'/>
 			<FIELD type='0' description='Name' value='2k' show='1' pos='1.00000,-7.00000'/>
 		</SYMBOL>
-		<JUNCTION pos='102.19858,24.36788'/>
-		<WIRE style='2' a='102.19858,24.36788' b='102.87858,24.36788'/>
-		<WIRE style='2' a='92.75600,24.36788' b='102.19858,24.36788'/>
-		<JUNCTION pos='102.87858,24.36788'/>
-		<WIRE style='2' a='102.19858,24.36788' b='102.87858,24.36788'/>
-		<WIRE style='2' a='102.87858,24.36788' b='102.87858,29.06462'/>
-		<WIRE style='2' a='102.87858,37.06462' b='102.97858,37.06462'/>
-		<WIRE style='2' a='102.97858,37.06462' b='102.97858,97.86462'/>
-		<SYMBOL id='18' pos='205.46634,32.22854' part='0' rotate='2' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+		<SYMBOL id='8' pos='205.46634,32.22854' part='0' rotate='2' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
 			<FIELD type='0' description='Ref' value='R1' show='1' pos='-9.00000,2.00000'/>
 			<FIELD type='0' description='Name' value='2k' show='1' pos='-9.00000,-3.00000'/>
 		</SYMBOL>
 		<JUNCTION pos='180.01463,42.12510'/>
 		<WIRE style='0' a='180.01463,42.12510' b='180.27321,42.12510'/>
 		<WIRE style='0' a='180.27321,41.95896' b='180.27321,30.60192'/>
-		<SYMBOL id='27' pos='198.01321,114.84192' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+		<SYMBOL id='9' pos='198.01321,114.84192' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
 			<FIELD type='0' description='Ref' value='R2' show='1' pos='1.00000,-4.60000'/>
 			<FIELD type='0' description='Name' value='2k' show='1' pos='1.00000,-7.00000'/>
 		</SYMBOL>
@@ -1881,15 +1835,11 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 		<WIRE style='0' a='196.61321,124.95896' b='196.61321,113.84192'/>
 		<WIRE style='0' a='196.61321,105.84192' b='196.93771,105.84192'/>
 		<WIRE style='0' a='196.93771,105.84192' b='196.93771,98.72310'/>
-		<WIRE style='9' a='64.52478,175.76896' b='64.69746,175.76896'/>
-		<WIRE style='9' a='64.69746,175.76896' b='64.69746,206.22743'/>
-		<WIRE style='9' a='64.69746,206.22743' b='170.47617,206.22743'/>
-		<WIRE style='9' a='170.47617,206.22743' b='170.47617,99.03080'/>
-		<LABEL pos='85.95746,206.22743' direction='3' font='0' color='208000' style='0'>PWM</LABEL>
-		<JUNCTION pos='102.97858,97.86462'/>
-		<WIRE a='102.97858,97.86462' b='105.52478,97.86462'/>
-		<JUNCTION pos='105.52478,97.86462'/>
-		<WIRE a='102.97858,97.86462' b='105.52478,97.86462'/>
+		<WIRE style='6' a='64.52478,175.76896' b='64.69746,175.76896'/>
+		<WIRE style='6' a='64.69746,175.76896' b='64.69746,206.22743'/>
+		<WIRE style='6' a='64.69746,206.22743' b='170.47617,206.22743'/>
+		<WIRE style='6' a='170.47617,206.22743' b='170.47617,99.03080'/>
+		<LABEL pos='85.95746,206.22743' direction='3' font='3' color='208000' style='0'>PWM</LABEL>
 		<WIRE a='105.52478,97.86462' b='105.52478,120.56896'/>
 		<JUNCTION pos='105.52478,120.56896'/>
 		<WIRE a='100.52478,121.16896' b='100.56941,121.16896'/>
@@ -1929,48 +1879,67 @@ M ( \I &lt;  )&quot;&#039;]    /*0&#039;@  0![2 P  R//_[KY^]([B-Q0     245.1*Y&q
 		<JUNCTION pos='196.61321,124.95896'/>
 		<WIRE style='0' a='196.61321,131.60559' b='196.61321,124.95896'/>
 		<WIRE style='0' a='196.61321,124.95896' b='209.55309,124.95896'/>
-		<WIRE style='0' a='209.55309,109.26031' b='209.55309,98.72310'/>
+		<WIRE style='0' a='209.55309,124.95896' b='209.55309,98.72310'/>
 		<JUNCTION pos='180.27321,41.95896'/>
 		<WIRE style='0' a='180.27321,41.95896' b='193.09155,41.95896'/>
 		<WIRE style='0' a='180.27321,42.12510' b='180.27321,41.95896'/>
-		<WIRE style='0' a='193.09155,47.19855' b='193.09155,61.49233'/>
-		<TEXT pos='225.00000,182.93520' direction='3' font='0' color='000000'>Motion Controller</TEXT>
-		<TEXT pos='224.60000,193.13520' direction='3' font='0' color='000000'>Jared Sund</TEXT>
+		<WIRE style='0' a='193.09155,41.95896' b='193.09155,61.49233'/>
+		<TEXT pos='225.00000,182.93520' direction='3' font='3' color='000000'>Motion Controller</TEXT>
+		<TEXT pos='224.60000,193.13520' direction='3' font='3' color='000000'>Jared Sund</TEXT>
 		<NOCONNECT pos='216.01463,98.87695'/>
 		<NOCONNECT pos='222.93771,98.87695'/>
 		<WIRE style='0' a='180.27321,30.60192' b='196.46634,30.60192'/>
 		<WIRE style='0' a='196.46634,30.60192' b='196.46634,30.82854'/>
 		<WIRE style='0' a='204.46634,30.82854' b='206.63001,30.82854'/>
 		<WIRE style='0' a='206.63001,30.82854' b='206.63001,61.64618'/>
-		<TEXT pos='276.14318,29.68497' direction='3' font='0' color='000000'>Motors</TEXT>
-		<LABEL pos='37.78000,193.46000' direction='3' font='0' color='208000' style='0'>CAP3.0</LABEL>
-		<LABEL pos='48.58000,198.11231' direction='3' font='0' color='208000' style='0'>CAP3.1</LABEL>
-		<LABEL pos='115.85692,97.86462' direction='3' font='0' color='208000' style='0'>DIR</LABEL>
-		<JUNCTION pos='219.86078,18.00000'/>
-		<WIRE style='3' a='219.86078,17.87000' b='219.86078,18.00000'/>
-		<WIRE style='3' a='237.79140,18.00000' b='249.23922,18.00000'/>
-		<WIRE style='3' a='249.23922,18.00000' b='249.23922,21.05759'/>
-		<JUNCTION pos='237.71500,18.00000'/>
-		<WIRE style='3' a='237.71500,18.00000' b='237.79140,18.00000'/>
-		<WIRE style='3' a='219.86078,18.00000' b='237.71500,18.00000'/>
-		<JUNCTION pos='237.79140,18.00000'/>
-		<WIRE style='3' a='237.71500,18.00000' b='237.79140,18.00000'/>
-		<WIRE style='3' a='237.79140,18.00000' b='237.79140,21.41271'/>
-		<WIRE style='18' a='249.23922,28.05759' b='249.25366,28.05759'/>
-		<WIRE style='18' a='249.25366,28.05759' b='249.25366,30.44861'/>
-		<WIRE style='18' a='249.25366,30.44861' b='237.79140,30.44861'/>
-		<WIRE style='18' a='237.79140,30.44861' b='237.79140,28.41271'/>
-		<JUNCTION pos='237.79140,30.44861'/>
-		<WIRE style='18' a='237.79140,30.44861' b='209.82206,30.44861'/>
-		<WIRE style='18' a='209.82206,30.44861' b='209.82206,47.19855'/>
-		<WIRE style='18' a='209.82206,47.19855' b='193.09155,47.19855'/>
-		<JUNCTION pos='193.09155,47.19855'/>
-		<WIRE style='0' a='193.09155,41.95896' b='193.09155,47.19855'/>
-		<JUNCTION pos='249.25366,30.44861'/>
-		<WIRE style='18' a='249.25366,30.44861' b='258.55373,30.44861'/>
-		<WIRE style='18' a='258.55373,30.44861' b='258.55373,109.26031'/>
-		<WIRE style='18' a='258.55373,109.26031' b='209.55309,109.26031'/>
-		<JUNCTION pos='209.55309,109.26031'/>
-		<WIRE style='0' a='209.55309,124.95896' b='209.55309,109.26031'/>
+		<TEXT pos='276.14318,29.68497' direction='3' font='3' color='000000'>Motors</TEXT>
+		<LABEL pos='37.78000,193.46000' direction='3' font='3' color='208000' style='0'>CAP3.0</LABEL>
+		<LABEL pos='48.58000,198.11231' direction='3' font='3' color='208000' style='0'>CAP3.1</LABEL>
+		<LABEL pos='115.85692,97.86462' direction='3' font='3' color='208000' style='0'>DIR</LABEL>
+		<JUNCTION pos='92.75600,24.41385'/>
+		<WIRE style='2' a='92.75600,24.41385' b='92.75600,24.36788'/>
+		<JUNCTION pos='92.75600,24.36788'/>
+		<WIRE style='2' a='92.75600,24.36788' b='92.75600,24.41385'/>
+		<WIRE style='2' a='143.40020,24.36788' b='226.47617,24.36788'/>
+		<JUNCTION pos='143.40020,24.36788'/>
+		<WIRE style='2' a='92.75600,24.36788' b='143.40020,24.36788'/>
+		<JUNCTION pos='105.52478,97.86462'/>
+		<WIRE a='105.52478,97.86462' b='105.07858,97.86462'/>
+		<WIRE a='105.07858,97.86462' b='105.07858,82.06462'/>
+		<JUNCTION pos='105.72420,42.12510'/>
+		<WIRE style='0' a='105.72420,42.12510' b='105.72420,74.06462'/>
+		<WIRE style='0' a='98.21340,42.12510' b='105.72420,42.12510'/>
+		<WIRE style='0' a='105.72420,74.06462' b='105.07858,74.06462'/>
+		<JUNCTION pos='116.33206,46.38462'/>
+		<WIRE a='116.33206,46.38462' b='116.33206,37.12462'/>
+		<WIRE a='110.51858,46.38462' b='116.33206,46.38462'/>
+		<WIRE a='116.33206,37.12462' b='120.73858,37.12462'/>
+		<JUNCTION pos='133.10129,42.12510'/>
+		<WIRE style='0' a='133.10129,42.12510' b='133.10129,37.51379'/>
+		<WIRE style='0' a='109.00122,42.12510' b='133.10129,42.12510'/>
+		<WIRE style='0' a='133.10129,37.51379' b='128.73858,37.51379'/>
+		<WIRE style='0' a='128.73858,37.51379' b='128.73858,37.12462'/>
+		<JUNCTION pos='98.42200,17.87000'/>
+		<WIRE style='3' a='98.42200,17.87000' b='98.21340,17.87000'/>
+		<JUNCTION pos='98.21340,17.87000'/>
+		<WIRE style='3' a='14.07183,17.87000' b='98.21340,17.87000'/>
+		<WIRE style='3' a='98.21340,17.87000' b='98.42200,17.87000'/>
+		<WIRE style='3' a='98.21340,17.87000' b='98.21340,30.49071'/>
+		<JUNCTION pos='108.82200,17.87000'/>
+		<WIRE style='3' a='108.82200,17.87000' b='108.82200,30.71159'/>
+		<WIRE style='3' a='98.42200,17.87000' b='108.82200,17.87000'/>
+		<WIRE style='3' a='108.82200,30.71159' b='109.00122,30.71159'/>
+		<JUNCTION pos='98.02200,42.12510'/>
+		<WIRE style='0' a='98.02200,42.12510' b='98.21340,42.12510'/>
+		<WIRE style='0' a='84.59460,42.12510' b='98.02200,42.12510'/>
+		<JUNCTION pos='98.21340,42.12510'/>
+		<WIRE style='0' a='98.02200,42.12510' b='98.21340,42.12510'/>
+		<WIRE style='0' a='98.21340,42.12510' b='98.21340,37.49071'/>
+		<JUNCTION pos='108.82200,42.12510'/>
+		<WIRE style='0' a='108.82200,42.12510' b='109.00122,42.12510'/>
+		<WIRE style='0' a='105.72420,42.12510' b='108.82200,42.12510'/>
+		<JUNCTION pos='109.00122,42.12510'/>
+		<WIRE style='0' a='108.82200,42.12510' b='109.00122,42.12510'/>
+		<WIRE style='0' a='109.00122,42.12510' b='109.00122,37.71159'/>
 	</TinyCAD>
 </TinyCADSheets>
