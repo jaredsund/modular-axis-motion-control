@@ -30,3 +30,8 @@ Current Sensing Resistors (NOT WIREWOUND)
   _Value = 0.5 / Current_
 
   _Wattage = 0.5 X Current_
+
+
+Running off USB Power
+
+`<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" alt="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" width="100"/>`
