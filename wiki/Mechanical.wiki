@@ -19,3 +19,11 @@ Circuit Board:
 = CNC Program =
 
 [http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Mechanical/HEATSINK_PROGRAM.xlsx CNC Program ]
+
+= Images =
+
+<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/machineCB1.JPG" width="400" />
+
+<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/machineCB2.JPG" width="400" />
+
+<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/machineCB3.JPG" width="400" />
