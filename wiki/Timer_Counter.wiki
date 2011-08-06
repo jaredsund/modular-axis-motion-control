@@ -21,4 +21,31 @@ Registers:
 || EMR || External Match Register || T2EMR || 0xE007 403C || Controls match pins MAT3.[0/1] ||
 || CTCR || Count Control Register || T3CTCR || 0xE007 4070 || selects between counter and timer mode.  In counter mode it is used to select the signal and edge(s) for counting ||
 
-  
+
+*Interrupt Register* _T3IR (4000)_ - Reset by writing a 1 to the specific bit.  1 shows an interrupt, 0 - None
+|| 7 || 6 || 5 || 4 || 3 || 2 || 1 || 0 ||
+|| R || R || CR1 || CR0 || MR3 || MR2 || MR1 || MR0 ||
+
+*Timer Control Register* _T3CR (4004)_ 
+|| 7 || 6 || 5 || 4 || 3 || 2 || 1 || 0 ||
+|| R || R || R || R || R || R || Reset || Enabled ||
+
+*Counter Control Register* _T3CCR (4070)_
+|| 7 || 6 || 5 || 4 || 3-2 || 1-0 ||
+|| R || R || R || R || Count Input Select || Counter/Timer Mode ||
+
+|| 3 || 2 || Pin|| 1 || 0 || Mode|| Input || Edge ||
+|| 0 || 0 || CAP3.0 || 0 || 0 || Timer || PCLK || Rising||
+|| 0 || 1 || CAP3.1 || 0 || 1 || Counter|| CAP || Rising||
+|| 1 || 0 || Reserved || 1 || 0 || Counter|| CAP || Falling||
+|| 1 || 1 || Reserved || 1 || 1 || Counter|| CAP || Both||
+
+*Timer Counter Register* _T3TC (4008)_  - Only Increments, Overflow can be detected with a match register, other wise just starts at zero and continues to count.
+|| Base || Start|| || End||
+|| HEX || 0x0000 0000 || - || 0xFFFF FFFF||
+|| DEC || 0 || - || 4,294,967,295||
+
+*Prescale Register* _T3PR (4003)_
+values from 0x0000 0000 to 0xFFFF FFFF
+
+*Prescale Count Register* _T3PC (4010)_ - PCLK when PR==0, every 2 PCLK when PR==1, etc.
