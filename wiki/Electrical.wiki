@@ -32,6 +32,13 @@ Current Sensing Resistors (NOT WIREWOUND)
   _Wattage = 0.5 X Current_
 
 
-Running off USB Power
+== Running off USB Power ==
 
-`<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" alt="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" width="100"/>`
+To run 5VDC steppers off the USB powered mini, connect the positive power input to the encoder power output.  This will supply 5VDC to the to system.  See Image below.
+
+<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" alt="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/USBPowered.JPG" width="300"/>
+
+= Images =
+
+Hot Wiring the prototype circuit board!
+<img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/wireMess2.JPG" width="400" />
