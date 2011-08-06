@@ -68,5 +68,13 @@ values from 0x0000 0000 to 0xFFFF FFFF
 
 *External Match Register* _T3EMR (403C)_
 
-|| 15 - 12 || 11 10 || 9 8 || 7 6 || 5 4 || 3 || 2 || 1 || 0 ||
+|| 15:12 || 11:10 || 9:8 || 7:6 || 5:4 || 3 || 2 || 1 || 0 ||
 || R || EMC3 || EMC2 || EMC1 || EMC0 || EM3 || EM2 || EM1 || EM0 ||
+||  || || || || || TC = MR3|| TC = MR2 || TC = MR1 || TC = MR0||
+|| || || || || || MAT3.1|| MAT3.0|| MAT3.1|| MAT3.0||
+
+|| Bit || Bit || EMC3-0 ||
+|| 0 || 0 || Do nothing || 
+|| 0 || 1 || MAT3.n = Low ||
+|| 1 || 0 || MAT3.n = High ||
+|| 1 || 1 || MAT3.n Toggled|| 
