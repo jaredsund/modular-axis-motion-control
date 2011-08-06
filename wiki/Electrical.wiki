@@ -14,17 +14,17 @@ See [http://code.google.com/p/modular-axis-motion-control/source/browse/trunk/+m
 ||  || FEZ Mini || 72 Mhz Micro-Controller|| [http://www.ghielectronics.com/catalog/product/134 FEZ Mini] ||
 || LM7805 || Linear Voltage Regulator || Supplies 5 VDC from incoming 5-35VDC input ||  [http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=LM7805CT-ND DigiKey] ||
 || TB6560AHQ || Bipolar Stepping Motor Control|| 40V (max), 3.5 A (peak) || [http://search.digikey.com/scripts/DkSearch/dksus.dll?vendor=0&keywords=TB6560AHQ DigiKey] ||
-|| C1 || Capacitor || 47uF || N/A ||
-|| C2 || Capacitor || 0.33uF || N/A ||
-|| C3 || Capacitor || 10uF || N/A ||
-|| C4 || Capacitor || 0.1uF || N/A ||
-|| C5 || Capacitor || 0.33nF || N/A ||
-|| C6 || Capacitor || 0.1uF || N/A ||
-|| C7 || Capacitor || 0.1uF || N/A ||
-|| R1 || Resistor || Current Sensing (see note) || N/A ||
-|| R2 || Resistor || Current Sensing (see note) || N/A ||
-|| R3 || Resistor || 2k Ohm || N/A ||
-|| R4 || Resistor || 2k Ohm|| N/A ||
+|| C.1 || Capacitor || 47uF || N/A ||
+|| C.2 || Capacitor || 0.33uF || N/A ||
+|| C.3 || Capacitor || 10uF || N/A ||
+|| C.4 || Capacitor || 0.1uF || N/A ||
+|| C.5 || Capacitor || 0.33nF || N/A ||
+|| C.6 || Capacitor || 0.1uF || N/A ||
+|| C.7 || Capacitor || 0.1uF || N/A ||
+|| R.1 || Resistor || Current Sensing (see note) || N/A ||
+|| R.2 || Resistor || Current Sensing (see note) || N/A ||
+|| R.3 || Resistor || 2k Ohm || N/A ||
+|| R.4 || Resistor || 2k Ohm|| N/A ||
 
 Current Sensing Resistors (NOT WIREWOUND)
   _Value = 0.5 / Current_
