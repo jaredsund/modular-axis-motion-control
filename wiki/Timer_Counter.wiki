@@ -8,6 +8,8 @@ Note, this code will work on all FEZ devices that use the LPC2387 (100) chip (Pa
 
 This code can be viewed on the code.TinyCLR.com site at [http://code.tinyclr.com/project/360/externally-triggered-high-speed-counter/]
 
+An instruction guide is also available [http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Documents/FEZ/LPC2387%20Timer.docx LPC2387 Timer.docx]
+
 = Details =
 
 Registers:
@@ -52,6 +54,8 @@ Registers:
 values from 0x0000 0000 to 0xFFFF FFFF
 
 *Prescale Count Register* _T3PC (4010)_ - PCLK when PR==0, every 2 PCLK when PR==1, etc.
+
+[http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/Prescale_Counter.jpg]
 
 *Match Register* _MR0 - MR3 (4018, 401C, 4020, 4024_ - value is continuously compared to the Timer Counter value.  When they equal, action defined in the MCR can be triggered automatically   TC = MR0,..,3
 
