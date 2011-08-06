@@ -1,0 +1,13 @@
+#summary This page shows the schematic and electrical design
+
+= Full Schematic =
+
+[http://code.google.com/p/modular-axis-motion-control/source/browse/trunk/%20modular-axis-motion-control%20--username%20jaredsund%40gmail.com/Electrical/MotionControl_sch.png]
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
