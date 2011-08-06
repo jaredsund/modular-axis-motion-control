@@ -49,3 +49,24 @@ Registers:
 values from 0x0000 0000 to 0xFFFF FFFF
 
 *Prescale Count Register* _T3PC (4010)_ - PCLK when PR==0, every 2 PCLK when PR==1, etc.
+
+*Match Register* _MR0 - MR3 (4018, 401C, 4020, 4024_ - value is continuously compared to the Timer Counter value.  When they equal, action defined in the MCR can be triggered automatically   TC = MR0,..,3
+
+*Match Control Register* _T3MCR (4014)_  - MR[0,1,2,3] = TC _do something_
+
+|| 15 || 14 || 13 || 12 || 11 10 9 || 8 7 6 || 5 4 3 ||2 || 1 || 0 ||
+|| R || R || R || R || MR3 S,R,I || MR2 S,R,I || MR1 S,R,I || MR0 S || MR0 R || MR0 I ||
+|| || || || ||  ||  ||  || 1 TC AND PC STOP MR0=TC || 1 TC RESET MR0=TC || 1 INTERRUPT WHEN MR0==TC ||
+|| || || || ||  ||  ||  || 0 - Disabled || 0 - Disabled || 0 - Disabled ||
+
+*Capture Registers* _CR0/CR1 (402C/4030) CAP3.0/CAP3.1_ - May be loaded with the Timer Counter value when an event occurs on CAP3.0/1 - Controlled by the CCR
+
+*Capture Control Register* _T3CCR (4028)_
+|| 15-6 || 5 || 4 || 3 || 2 || 1 || 0 ||
+|| R || CAP1I || CAP1FE || CAP1RE || CAP0I || CAP0FE || CAP0RE ||
+||  ||  ||  ||  || Load if CR0 causes interrupt || Falling Edge (1 then 0) _(CR0 <-- TC)_ || Rising Edge (0 then 1) _(CR0 <-- TC)_ ||
+
+*External Match Register* _T3EMR (403C)_
+
+|| 15 - 12 || 11 10 || 9 8 || 7 6 || 5 4 || 3 || 2 || 1 || 0 ||
+|| R || EMC3 || EMC2 || EMC1 || EMC0 || EM3 || EM2 || EM1 || EM0 ||
