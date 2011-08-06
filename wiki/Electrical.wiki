@@ -41,4 +41,5 @@ To run 5VDC steppers off the USB powered mini, connect the positive power input 
 = Images =
 
 Hot Wiring the prototype circuit board!
+
 <img src="http://modular-axis-motion-control.googlecode.com/svn/trunk/%20modular-axis-motion-control%20--username%20jaredsund@gmail.com/Images/wireMess2.JPG" width="400" />
